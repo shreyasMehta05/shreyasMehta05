@@ -28,7 +28,7 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 - ⚡ **Fun Fact**: I believe in balancing life with **tech**, **gaming**, and **coffee**! ☕  
 
 ---
-
+<!-- 
 ### 🛠️ My Tech Stack  
 
 #### 💻 Programming Languages  
@@ -57,7 +57,47 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 
 #### 🎨 Design & Presentation Tools  
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-005B9A?style=for-the-badge&logo=autodesk&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)   -->
+### 🛠️ My Tech Stack  
+
+#### 💻 Programming Languages  
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge">
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Badge">
+</div>  
+
+#### 🔧 Frameworks & Tools  
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+  <img src="https://img.shields.io/badge/Jupyter-DA5B00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
+  <img src="https://img.shields.io/badge/Fusion%20360-005B9A?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360 Badge">
+</div>  
+
+#### 🛠️ Version Control & Collaboration  
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+</div>  
+
+#### 📝 Document & Report Writing  
+<div align="center">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Badge">
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf Badge">
+</div>  
+
+#### 🎨 Design & Presentation Tools  
+<div align="center">
+  <img src="https://img.shields.io/badge/Fusion%20360-005B9A?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360 Badge">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge">
+</div>
+
 
 To display your GitHub stats, you can use the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) project by Anurag Hazra. Below is how you can add GitHub stats to your README file:  
 
