@@ -61,19 +61,17 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 
 ---
 
-### 🌟 Connect With Me!  
+### 🌟 **Connect With Me!**  
 
-- 📧 Email: **[shreyasmehta05@gmail.com](mailto:shreyasmehta05@gmail.com)**  
-- 💼 LinkedIn: **[linkedin.com/in/shreyas-mehta-7018552b2e](https://www.linkedin.com/in/shreyas-mehta-7018552b2)**  
-<!-- - 🌐 Portfolio: **[yourportfolio.com](https://yourportfolio.com)**   -->
-<!-- -
-- 📝 Resume: **[Shreyas Mehta - Resume.pdf](https://drive.google)
-- 📚 Blog: **[shreyasmehta.medium.com](https://shreyasmehta.medium.com)** -->
+[![Email Badge](https://img.shields.io/badge/Email-shreyasmehta05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasmehta05@gmail.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-shreyas--mehta--7018552b2e-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-mehta-7018552b2e)  
+<!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20Here-000000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)  
+[![Resume Badge](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com)  
+[![Blog Badge](https://img.shields.io/badge/Blog-shreyasmehta.medium.com-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shreyasmehta.medium.com)   -->
+
 
 ---
 
-### ✨ Final Note  
-
-*"Stay curious, keep learning, and build amazing things!"*
+> *"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."* — Patrick McKenzie  
 
 ---
