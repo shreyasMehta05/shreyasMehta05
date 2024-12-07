@@ -59,6 +59,30 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-005B9A?style=for-the-badge&logo=autodesk&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
 
+To display your GitHub stats, you can use the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) project by Anurag Hazra. Below is how you can add GitHub stats to your README file:  
+
+
+
+### 📊 **GitHub Stats**  
+
+<div align="center">  
+ 
+![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasMehta05&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasMehta05&layout=compact&theme=tokyonight&langs_count=10&hide=html,css&count_private=true&include_all_commits=true)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shreyasMehta05&theme=tokyonight&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727,DD2727&sideLabels=DD2727,DD2727)  
+
+</div>  
+
+
+
+### Instructions  
+
+- You can modify the themes (`radical`, `tokyonight`, etc.) to suit your style.  
+- You can also toggle other options like showing private contributions, excluding specific repositories, or adjusting the layout.  
+
+Would you like me to customize the stats further? 😊
 ---
 
 ### 🌟 **Connect With Me!**  
