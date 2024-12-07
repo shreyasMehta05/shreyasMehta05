@@ -1,6 +1,5 @@
 ## 👋 Hey, I'm Shreyas Mehta!  
 
-
 <div align="center">
   <img src="profile-banner.jpeg" alt="Profile Banner" 
        style="border-radius: 15%; 
@@ -11,16 +10,22 @@
               border: 5px solid #ccc; 
               margin: 20px;" 
        width="200px" height="200px">
-  <p><b>I’m Shreyas Mehta</b>, a passionate <b>software developer</b> and <b>tech enthusiast</b> pursuing my <b>BTech in CSE</b> from <b>IIIT Hyderabad</b>. I have a strong love for <b>math</b> and am always excited about <b>learning new things</b> and <b>applying them in real-life projects</b>. As a <b>problem solver</b>, I aim to create innovative solutions that make an impact.</p>
 </div>
 
-### **✨ A Glimpse into Me**  
+### 🎉 Welcome to My Space!  
+
+I’m a passionate **software developer**, **tech enthusiast**, and an **undergraduate student** pursuing a **B.Tech in Computer Science and Engineering** at **IIIT Hyderabad**.  
+
+With a love for **mathematics**, **problem-solving**, and **technology**, I’m driven by curiosity and creativity to craft impactful solutions. When I’m not coding, you can find me immersed in **gaming**, exploring the **latest innovations**, or brainstorming exciting new projects!  
+
+---
+
+### **✨ A Glimpse Into Me**  
 - 🔍 **Curious Explorer**: Always on the lookout for the latest innovations in tech.  
 - 💡 **Creative Builder**: Turning ideas into reality with code and design.  
 - 🤝 **Collaborator**: Open to working on open-source projects, hackathons, and groundbreaking tech.  
 - 🌱 **Lifelong Learner**: Continuously learning new skills to stay ahead in the ever-changing tech world.  
-- ⚡ **Fun Fact**: I believe in balancing life with tech, gaming, and coffee! ☕  
-
+- ⚡ **Fun Fact**: I believe in balancing life with **tech**, **gaming**, and **coffee**! ☕  
 
 ---
 
@@ -36,12 +41,10 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
 
-#### 🔧 Tools & Frameworks  
+#### 🔧 Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B00?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-005B9A?style=for-the-badge&logo=autodesk&logoColor=white)  
 
 #### 🛠️ Version Control & Collaboration  
@@ -58,13 +61,19 @@
 
 ---
 
-### 💡 Get in Touch!  
+### 🌟 Connect With Me!  
 
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)  
+- 📧 Email: **[shreyasmehta05@gmail.com](mailto:shreyasmehta05@gmail.com)**  
+- 💼 LinkedIn: **[linkedin.com/in/shreyas-mehta-7018552b2e](www.linkedin.com/in/shreyas-mehta-7018552b2)**  
+<!-- - 🌐 Portfolio: **[yourportfolio.com](https://yourportfolio.com)**   -->
+<!-- -
+- 📝 Resume: **[Shreyas Mehta - Resume.pdf](https://drive.google)
+- 📚 Blog: **[shreyasmehta.medium.com](https://shreyasmehta.medium.com)** -->
 
 ---
 
-🌟 *"Stay curious, keep learning, and build amazing things!"* 🌟  
+### ✨ Final Note  
+
+*"Stay curious, keep learning, and build amazing things!"*
+
+---
