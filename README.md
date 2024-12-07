@@ -73,7 +73,7 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 </div>  
 
 #### 🔧 Frameworks & Tools  
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
   <img src="https://img.shields.io/badge/Jupyter-DA5B00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
@@ -81,19 +81,19 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 </div>  
 
 #### 🛠️ Version Control & Collaboration  
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 </div>  
 
 #### 📝 Document & Report Writing  
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Badge">
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf Badge">
 </div>  
 
 #### 🎨 Design & Presentation Tools  
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Fusion%20360-005B9A?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360 Badge">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge">
 </div>
