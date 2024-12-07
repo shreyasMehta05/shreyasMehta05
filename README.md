@@ -61,7 +61,7 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 ### 🛠️ My Tech Stack  
 
 #### 💻 Programming Languages  
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
