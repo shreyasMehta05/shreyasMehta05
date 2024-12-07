@@ -28,36 +28,7 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 - ⚡ **Fun Fact**: I believe in balancing life with **tech**, **gaming**, and **coffee**! ☕  
 
 ---
-<!-- 
-### 🛠️ My Tech Stack  
 
-#### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
-
-#### 🔧 Frameworks & Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-DA5B00?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-005B9A?style=for-the-badge&logo=autodesk&logoColor=white)  
-
-#### 🛠️ Version Control & Collaboration  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
-#### 📝 Document & Report Writing  
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)  
-
-#### 🎨 Design & Presentation Tools  
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-005B9A?style=for-the-badge&logo=autodesk&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)   -->
 ### 🛠️ My Tech Stack  
 
 #### 💻 Programming Languages  
@@ -99,8 +70,6 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 </div>
 
 
-To display your GitHub stats, you can use the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) project by Anurag Hazra. Below is how you can add GitHub stats to your README file:  
-
 
 
 ### 📊 **GitHub Stats**  
@@ -116,14 +85,6 @@ To display your GitHub stats, you can use the [GitHub Readme Stats](https://gith
 </div>  
 
 
-
-### Instructions  
-
-- You can modify the themes (`radical`, `tokyonight`, etc.) to suit your style.  
-- You can also toggle other options like showing private contributions, excluding specific repositories, or adjusting the layout.  
-
-Would you like me to customize the stats further? 😊
----
 
 ### 🌟 **Connect With Me!**  
 
