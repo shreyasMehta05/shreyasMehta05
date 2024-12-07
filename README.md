@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Shreyas Mehta!  
 
-<div align="center">
+<!-- <div align="center">
   <img src="profile-banner.jpeg" alt="Profile Banner" 
        style="border-radius: 15%; 
               box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5), 
@@ -10,7 +10,7 @@
               border: 5px solid #ccc; 
               margin: 20px;" 
        width="200px" height="200px">
-</div>
+</div> -->
 
 ### 🎉 Welcome to My Space!  
 
