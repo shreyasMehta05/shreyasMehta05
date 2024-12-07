@@ -64,7 +64,7 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 ### 🌟 Connect With Me!  
 
 - 📧 Email: **[shreyasmehta05@gmail.com](mailto:shreyasmehta05@gmail.com)**  
-- 💼 LinkedIn: **[linkedin.com/in/shreyas-mehta-7018552b2e](www.linkedin.com/in/shreyas-mehta-7018552b2)**  
+- 💼 LinkedIn: **[linkedin.com/in/shreyas-mehta-7018552b2e](https://www.linkedin.com/in/shreyas-mehta-7018552b2)**  
 <!-- - 🌐 Portfolio: **[yourportfolio.com](https://yourportfolio.com)**   -->
 <!-- -
 - 📝 Resume: **[Shreyas Mehta - Resume.pdf](https://drive.google)
