@@ -79,6 +79,7 @@ With a love for **mathematics**, **problem-solving**, and **technology**, I’m 
 ![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasMehta05&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasMehta05&layout=compact&theme=tokyonight&langs_count=10&hide=html,css&count_private=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shreyasMehta05&layout=compact&theme=tokyonight&langs_count=10&hide=html,css)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shreyasMehta05&theme=tokyonight&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727,DD2727&sideLabels=DD2727,DD2727)  
 
